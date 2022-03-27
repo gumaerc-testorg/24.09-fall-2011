@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dae3fd21-a99c-7c0a-5ca4-c0ace4f91732
 resourcetype: Document
 title: 'Handout 1: Arguments -- the basics'
 uid: 4434931f-f4a0-80af-95e9-4bfe542a32cd

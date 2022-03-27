@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dae3fd21-a99c-7c0a-5ca4-c0ace4f91732
 resourcetype: Document
 title: 'Handout 9: Externalism and Self-Knowledge'
 uid: d3ab1861-8945-e9c5-bd40-9f47e7ef1d6b

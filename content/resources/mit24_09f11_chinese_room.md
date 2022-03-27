@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dae3fd21-a99c-7c0a-5ca4-c0ace4f91732
 resourcetype: Document
 title: 'Handout 2: the Chinese room argument'
 uid: 3f468ddd-a0d0-c3ab-5ae9-1fbcd9e17894

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dae3fd21-a99c-7c0a-5ca4-c0ace4f91732
 resourcetype: Document
 title: 'Handout 3: properties and particulars'
 uid: ac541f71-b8cf-6212-7cbe-990dcf2ab9cd

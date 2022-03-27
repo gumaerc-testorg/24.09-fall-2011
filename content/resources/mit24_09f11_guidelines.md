@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b61f84ba-7f52-2fad-d691-768629a885ea
 resourcetype: Document
 title: MIT24_09F11_Guidelines.pdf
 uid: dfad9b16-fecd-b05a-0ee1-d036381e85e2

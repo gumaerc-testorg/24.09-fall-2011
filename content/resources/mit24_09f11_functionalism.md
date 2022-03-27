@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dae3fd21-a99c-7c0a-5ca4-c0ace4f91732
 resourcetype: Document
 title: 'Handout 8: Functionalism'
 uid: 4027d8e5-ded9-9c3e-3817-705ad8e47271
