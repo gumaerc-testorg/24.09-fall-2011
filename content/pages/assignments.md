@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the writing assignments
+  of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b61f84ba-7f52-2fad-d691-768629a885ea
 ---
@@ -57,4 +62,4 @@ What, according to Michael Tye ("Visual Qualia...") are "qualia" and "Qualia"? W
 Writing Guidelines
 ------------------
 
-Guidelines for papers ([PDF]({{< baseurl >}}/resources/mit24_09f11_guidelines))
+Guidelines for papers ({{% resource_link dfad9b16-fecd-b05a-0ee1-d036381e85e2 "PDF" %}})

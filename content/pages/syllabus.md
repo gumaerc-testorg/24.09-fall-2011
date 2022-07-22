@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, reading and attendance, criteria For HASS CI subjects,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 09e861c7-05c6-39c6-4d37-44560bf94778
 ---
