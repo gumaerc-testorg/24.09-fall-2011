@@ -5,6 +5,7 @@ file: /courses/24-09-minds-and-machines-fall-2011/dfad9b16fecdb05a0ee1d036381e85
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT24_09F11_Guidelines.pdf
 uid: dfad9b16-fecd-b05a-0ee1-d036381e85e2
 ---
 This resource contains guidelines for assignments.
-
