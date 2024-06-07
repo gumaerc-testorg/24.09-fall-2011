@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Possibility and Necessity.
 file: /courses/24-09-minds-and-machines-fall-2011/f92a8efb9f0aceb7395925139786e84b_MIT24_09F11_poss_nec.pdf
+file_size: 570333
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

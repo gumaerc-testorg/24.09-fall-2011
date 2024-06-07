@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Properties and Particulars.
 file: /courses/24-09-minds-and-machines-fall-2011/ac541f71b8cf62127cbe990dcf2ab9cd_MIT24_09F11_prop_partic.pdf
+file_size: 538859
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
