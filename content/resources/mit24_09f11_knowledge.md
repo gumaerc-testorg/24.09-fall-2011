@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource contains information regarding The Knowledge Argument Against
   Physicalism.
-file: /ol-ocw-studio-app/courses/24-09-minds-and-machines-fall-2011/a7b8cc80986f214a81645abc222e8ddb_MIT24_09F11_knowledge.pdf
+file: /courses/24-09-minds-and-machines-fall-2011/a7b8cc80986f214a81645abc222e8ddb_MIT24_09F11_knowledge.pdf
 file_size: 547216
 file_type: application/pdf
 learning_resource_types: []
