@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Arguments - The Basics.
-file: /courses/24-09-minds-and-machines-fall-2011/4434931ff4a080af95e94bfe542a32cd_MIT24_09F11_argument.pdf
+file: /ol-ocw-studio-app/courses/24-09-minds-and-machines-fall-2011/4434931ff4a080af95e94bfe542a32cd_MIT24_09F11_argument.pdf
 file_size: 586339
 file_type: application/pdf
 learning_resource_types: []
